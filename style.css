@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    padding: 0;
+}
+
+h1 {
+    padding: 8px;
+    margin: 0;
+}
+h3 {
+    padding: 8px;
+}
+
+.header {
+    padding: 20px;
+    margin: 0;
+    background-color: #eaeaea;
+}
